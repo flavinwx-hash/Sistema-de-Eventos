@@ -1,4 +1,7 @@
-📝 Descrição do Sistema
+Aividade da faculdade
+
+(descrição)
+
 
 O sistema consiste em uma aplicação de cadastro de usuários e eventos, cujo objetivo é facilitar a divulgação de eventos por cidade e o gerenciamento de presenças dos participantes.
 
